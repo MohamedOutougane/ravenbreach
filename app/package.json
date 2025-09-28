@@ -1,0 +1,23 @@
+{
+  "name": "ravenbreach",
+  "version": "1.0.0",
+  "description": "RavenBreach -- Local, containerized pentest assistant. Automates reconnaissance, assessments & reporting in a safe lab environment.",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron .",
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MohamedOutougane/ravenbreach.git"
+  },
+  "author": "moutougane",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MohamedOutougane/ravenbreach/issues"
+  },
+  "homepage": "https://github.com/MohamedOutougane/ravenbreach#readme",
+  "devDependencies": {
+    "electron": "^38.2.0"
+  }
+}
